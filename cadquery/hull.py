@@ -12,7 +12,7 @@ Yue, Y., Murray, J. L., Corney, J. R., & Clark, D. E. R. (1999).
 Convex hull of a planar set of straight and circular line segments. Engineering Computations.
 
 """
-
+cad resose 
 Arcs = List["Arc"]
 Points = List["Point"]
 Entity = Union["Arc", "Point"]
